@@ -7,7 +7,7 @@ if __name__ == '__main__':
     screen = turtle.Screen()
     screen.setup(width=726, height=491)
     screen.title("Name the US States")
-    screen.bgpic("gfx/map.gif")
+    screen.bgpic("gfx/us-map.gif")
 
     t = turtle.Turtle()
     t.hideturtle()

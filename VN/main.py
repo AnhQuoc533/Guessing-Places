@@ -16,7 +16,7 @@ if __name__ == '__main__':
     screen = turtle.Screen()
     screen.setup(width=480, height=767, startx=0, starty=0)
     screen.title("Name the VN Provinces")
-    screen.bgpic("gfx/map.gif")
+    screen.bgpic("gfx/vn-map.gif")
 
     t = turtle.Turtle()
     t.hideturtle()
